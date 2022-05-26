@@ -361,6 +361,73 @@ nav ul li a {
 }
 
 
+/*Metricas*/
+
+.container-metricas {
+    width: 100%;
+    height: 300vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 0vh;
+    padding: 20vh 0vw 15vh 0vw;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.titulo-metricas {
+    width: 100%;
+    height: 10vh;
+    font-size: 3vh;
+}
+
+.titulo-metricas h1 {
+    color: #a31c44;
+    font-size: 2em;
+    text-align: center;
+}
+
+.grafico {
+    width: 90%;
+    height: 60vh;
+    margin: 0vh 5%;
+    background-image: url(../img/8_1_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+.grafico1 {
+    width: 90%;
+    height: 60vh;
+    margin: 0vh 5%;
+    background-image: url(../img/8_2_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+.grafico2 {
+    width: 90%;
+    height: 60vh;
+    margin: 0vh 5%;
+    background-image: url(../img/8_10_1_a.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+.grafico3 {
+    width: 90%;
+    height: 60vh;
+    margin: 0vh 5%;
+    background-image: url(../img/8_10_1_b.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+
 /*Footer*/
 
 footer {
